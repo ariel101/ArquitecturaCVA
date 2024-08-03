@@ -1,0 +1,10 @@
+2023-11-07T13:06:46.846Z - info: Express server for Items listening on port3002
+2023-11-07T13:31:00.682Z - info: GET: /api/v1/items
+2023-11-07T13:31:00.737Z - info: Query items by undefined
+2023-11-07T13:31:12.888Z - info: GET: /api/v1/items
+2023-11-07T13:31:12.895Z - info: Query items by undefined
+2023-11-14T16:18:12.299Z - info: Express server for Items listening on port3002
+2023-11-14T16:28:43.752Z - info: GET: /api/v1/items
+2023-11-14T16:28:43.807Z - info: Query items by undefined
+2023-11-14T16:45:55.863Z - info: GET: /api/v1/items
+2023-11-14T16:45:55.870Z - info: Query items by undefined
